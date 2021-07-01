@@ -14,4 +14,4 @@
 
   
 # donations
-<iframe src="https://widget.qiwi.com/widgets/big-widget-728x200?publicKey=48e7qUxn9T7RyYE1MVZswX1FRSbE6iyCj2gCRwwF3Dnh5XrasNTx3BGPiMsyXQFNKQhvukniQG8RTVhYm3iPs2SkDQQJBqiWw8vPYva2emQwogRDBfuauDLgnfaHbaS9GqTsWWmmxD8rzM59NswVx3xVur4xyJnfcjvEH1w9q4TBNqGzS25KL4ig9bEUM" width="728" height="200"allowTransparency="true" scrolling="no" frameBorder="0"></iframe>
+<a href="https://my.qiwi.com/Tymofei-V9-J46Mkfa" target="_blank"><img src="https://donate.qiwi.com/help/assets/03466e29983ec1c1ce20298c3802251d.svg" alt="Donate me" width="217px" ></a>
