@@ -6,7 +6,7 @@
 💾 I'm a moderation of the [Fadager Community]. <br>
 🚀 I love playing OSU! <br> 
 
-  <samp><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17"> Write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) 💭
+  <samp><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17"> Write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) </samp>
 
 ---
   
