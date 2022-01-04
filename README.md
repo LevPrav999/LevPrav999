@@ -2,9 +2,10 @@
 ### Hey this is information or me! 💎
   
 ✏ I'm working on [Anakai Bot]. <br>
-💻 My Discord server [Emerald]. <br>
-💾 I'm a moderation of the [Fadager Community]. <br>
+💻 My Discord server [is Here]. <br>
+💾 I'm a moderation of the [SELENSKAYA]. <br>
 🚀 I love playing OSU! <br> 
+🌈 Also I love watching Anime and reading Manga  <br> 
 
   <samp><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17"> Write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) </samp>
 
@@ -12,8 +13,8 @@
   
 
 
-<a href="https://discord.gg/moscow">
-  <img src="http://invidget.switchblade.xyz/moscow" />
+<a href="https://discord.gg/m9m5pXz7qD">
+  <img src="http://invidget.switchblade.xyz/m9m5pXz7qD" />
 </a>
   
 ---
@@ -24,8 +25,8 @@
   
   
 [Anakai Bot]: https://bots.server-discord.com/778539613362061312
-[Fadager Community]: https://discord.gg/sVucsb9kEP
-[Emerald]: https://discord.gg/moscow
+[is Here]: https://discord.gg/m9m5pXz7qD
+[SELENSKAYA]: https://discord.gg/2CCBhdRnbm
 
   
 ---
