@@ -32,7 +32,10 @@
 ### **Donations**
 <a href="https://my.qiwi.com/Tymofei-V9-J46Mkfa" target="_blank"><img src="https://donate.qiwi.com/help/assets/03466e29983ec1c1ce20298c3802251d.svg" alt="Donate me" width="217px" ></a>
   <p><a href="https://ko-fi.com/timofey_prostov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="timofey_prostov" /></a></p><br><br>
-
+  
+---
+### **Stats**
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levprav999&show_icons=true&locale=en&layout=compact" alt="levprav999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levprav999&show_icons=true&locale=en" alt="levprav999" /></p>
