@@ -36,10 +36,10 @@
 ---
 ### **Stats**
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levprav999&show_icons=true&locale=en&layout=compact" alt="levprav999" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levprav999&show_icons=true&locale=en&layout=compact" alt="levprav999" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levprav999&show_icons=true&locale=en" alt="levprav999" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levprav999&show_icons=true&locale=en" alt="levprav999" /></p><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levprav999&" alt="levprav999" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levprav999&" alt="levprav999" /></p><br/>
 
 ---
