@@ -1,9 +1,9 @@
 <img align="left" width="240" src="https://i.imgur.com/yagsfnA.png"> <samp> <br>
 ### Hey this is information or me! 💎
   
-✏ I'm working on [Anakai Bot]. <br>
+✏ I'm working on [Alice Bot]. <br>
 💻 My Discord server [is Here]. <br>
-💾 I'm a moderation of the [SELENSKAYA]. <br>
+💾 I'm a Co-Owner of the [Mayki]. <br>
 🚀 I love playing OSU! <br> 
 🌈 Also I love watching Anime and reading Manga  <br> 
 
@@ -23,9 +23,9 @@
 
   
   
-[Anakai Bot]: https://bots.server-discord.com/778539613362061312
+[Alice Bot]: https://bots.server-discord.com/778539613362061312
 [is Here]: https://discord.gg/m9m5pXz7qD
-[SELENSKAYA]: https://discord.gg/2CCBhdRnbm
+[Mayki]: https://discord.gg/nZyJ7Md92M
 
   
 ---
