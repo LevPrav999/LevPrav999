@@ -1,9 +1,8 @@
 <img align="left" width="240" src="https://i.imgur.com/yagsfnA.png"> <samp> <br>
 ### Hey this is information or me! 💎
   
-✏ I'm working on [Alice Bot]. <br>
+✏ I'm working on [Co-Fe]. <br>
 💻 My Discord server [is Here]. <br>
-💾 I'm a Co-Owner of the [Mayki]. <br>
 🚀 I love playing OSU! <br> 
 🌈 Also I love watching Anime and reading Manga  <br> 
 
@@ -13,8 +12,8 @@
   
 
 
-<a href="https://discord.gg/m9m5pXz7qD">
-  <img src="http://invidget.switchblade.xyz/m9m5pXz7qD" />
+<a href="https://discord.gg/mayki">
+  <img src="http://invidget.switchblade.xyz/mayki" />
 </a>
   
 ---
@@ -24,8 +23,7 @@
   
   
 [Alice Bot]: https://bots.server-discord.com/778539613362061312
-[is Here]: https://discord.gg/m9m5pXz7qD
-[Mayki]: https://discord.gg/nZyJ7Md92M
+[is Here]: https://discord.gg/mayki
 
   
 ---
