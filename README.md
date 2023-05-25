@@ -2,19 +2,11 @@
 ### Hey this is information or me! 💎
   
 ✏ I'm working on [Co-Fe]. <br>
-💻 My Discord server [is Here]. <br>
 🚀 I love playing OSU! <br> 
 🌈 Also I love watching Anime and reading Manga  <br> 
 
   <samp><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17"> Write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) </samp>
 
----
-  
-
-
-<a href="https://discord.gg/mayki">
-  <img src="http://invidget.switchblade.xyz/mayki" />
-</a>
   
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -22,8 +14,8 @@
 
   
   
-[Alice Bot]: https://bots.server-discord.com/778539613362061312
-[is Here]: https://discord.gg/mayki
+[Kisara Bot]: https://bots.server-discord.com/778539613362061312
+[Co-Fe]: https://t.me/levprav_projects/65
 
   
 ---
