@@ -30,4 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levprav999&show_icons=true&locale=en" alt="levprav999" /></p>
 
+<p>&nbsp;<img align="right" src="https://github.r2v.ch/codewars?user=LevPrav999&stroke=%23BB432C" alt="levprav999" /></p>
+
 ---
