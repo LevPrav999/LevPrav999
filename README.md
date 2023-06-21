@@ -3,7 +3,7 @@
 If you have any questions, write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="20"> 
 
 + #### Technologies and Tools:
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Back-End**: `Spring Boot`, `Hibernate`, `MongoDB`, `PostgreSQL`, `MySQL`, `Git`, `Firebase`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Back-End**: `Spring`, `Hibernate`, `MongoDB`, `PostgreSQL`, `MySQL`, `Git`, `Firebase`
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobile Dev**: `Flutter`, `Android SDK`, `Firebase`
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Programming Languages**: `Java`, `Dart`, `Python`
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Currently Learning**: `JavaScript`, `C#`, `PHP`
