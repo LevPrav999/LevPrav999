@@ -4,7 +4,7 @@ If you have any questions, write to me in a telegram [@timofey_prostov](https://
 
 + #### Technologies and Tools:
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Back-End**: `Spring`, `Hibernate`, `MongoDB`, `PostgreSQL`, `MySQL`, `Git`, `Firebase`
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobile Dev**: `Flutter`, `Android SDK`, `Firebase`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobile Dev**: `Flutter`, `Android SDK`, `Firebase`, `GetX`, `Riverpod`
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Programming Languages**: `Java`, `Dart`, `Python`
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Currently Learning**: `JavaScript`, `C#`, `PHP`
    
