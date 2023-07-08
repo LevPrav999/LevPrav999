@@ -1,5 +1,5 @@
 <img align="left" width = 35% src="./photo2.png"> <br>
-### Hey this is information or me! 💎
+### Hey this is information about me! 💎
 If you have any questions, write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="20"> 
 
 + #### Technologies and Tools:
