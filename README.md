@@ -1,11 +1,13 @@
 <img align="left" width = 35% src="./photo2.png"> <br>
 ### Hey! This is information about me! 💎
+### I'm Full-stack + Mobile developer 💫
 If you have any questions, write to me in a telegram [@timofey_prostov](https://t.me/timofey_prostov) <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="20"> 
 
 + #### Technologies and Tools:
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Back-End**: `Spring`, `Hibernate`, `MongoDB`, `PostgreSQL`, `MySQL`, `Git`, `Firebase`
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobile Dev**: `Flutter`, `Android SDK`, `Firebase`, `GetX`, `Riverpod`, `Bloc`, `Jetpack Compose`
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Programming Languages**: `Java`, `Dart`, `Kotlin`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Back-End**: `Symfony`, `Doctrine`, `MongoDB`, `PostgreSQL`, `MySQL`, `Git`, `Firebase`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Front-End**: `React.js`, `Axios`, `Webpack`, `Html`, `Css`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobile Dev**: `Flutter`, `Android SDK`, `Firebase`, `GetX`, `Riverpod`, `Bloc`, `Jetpack Compose`, `KMM`
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Programming Languages**: `PHP`, `Dart`, `Kotlin`, `JavaScript`
    
 ---
 
